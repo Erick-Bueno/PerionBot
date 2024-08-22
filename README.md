@@ -1,0 +1,2 @@
+<h1>Perion Bot</h1>
+<p>Um dos primeiros projetos que fiz e que realmente resolveram um problema real. Contexto: O pai de um amigo precisava coletar dados de contato, endereço e outras informações de mais de 500 pessoas em um site. Fazer isso manualmente demoraria muito tempo, e ele precisava dos dados com urgência. Ofereci ajuda e, para resolver o problema, desenvolvi um bot usando a biblioteca Puppeteer do JavaScript. E deu super certo!</p>
